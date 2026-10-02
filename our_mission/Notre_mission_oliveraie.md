@@ -11,9 +11,9 @@
 | Bloc à confirmer | Variété | Âge déclaré | Nombre approximatif |
 |---|---|---:|---:|
 | A | Chemlali | 40 ans | 300 |
-| B | Chemlali | 4 ans | 1 200 |
+| B | « Koronaike » — probablement **Koroneiki** | 4 ans | 1 500 |
 | C | « Koronaike » — probablement **Koroneiki** | 2 ans | 4 500 |
-| **Total provisoire** |  |  | **6 000** |
+| **Total provisoire** |  |  | **6 300** |
 
 Les effectifs et les âges sont des estimations communiquées par le propriétaire. L’orthographe et l’identité de la variété « Koronaike » restent à confirmer à partir des plants ou des documents de pépinière.
 
@@ -28,7 +28,7 @@ Les effectifs et les âges sont des estimations communiquées par le propriétai
 ### Koroneiki (identification à confirmer)
 
 - Koroneiki est une variété grecque principalement associée à la production d’huile; les descriptions agronomiques la caractérisent par de petits fruits et une teneur élevée en huile [4].
-- La comparaison tunisienne de Boughrara constitue un repère local utile, mais son verger était pluvial, très peu dense et suivi de 2008 à 2014. Ses résultats ne donnent pas directement un rendement attendu pour les 4 500 jeunes arbres de la ferme [2].
+- La comparaison tunisienne de Boughrara constitue un repère local utile, mais son verger était pluvial, très peu dense et suivi de 2008 à 2014. Ses résultats ne donnent pas directement un rendement attendu pour les 6 000 Koroneiki de la ferme [2].
 - Une étude récente de sept campagnes sur Koroneiki adulte en Italie centrale suggère des caractéristiques intéressantes face à la sécheresse. Le climat, le sol, l’âge et la conduite diffèrent de ceux de la ferme : ce résultat est un indice à suivre, pas une consigne d’irrigation pour la Tunisie [4].
 - Une étude d’irrigation déficitaire sur des Koroneiki adultes à Chypre montre que les réponses dépendent du stade de développement, de la charge en fruits et des conditions locales. Ses pourcentages d’irrigation ne doivent pas être transposés directement à cette ferme, surtout avec une eau saline [5].
 
@@ -36,8 +36,8 @@ Les effectifs et les âges sont des estimations communiquées par le propriétai
 
 Les sources consultées ne permettent pas de fixer une quantité fiable en litres par arbre pour « 2 ans », « 4 ans » ou « 40 ans » sans connaître la surface de sol mouillée, le débit des goutteurs, le sol, le climat et la taille des arbres.
 
-- **2 ans — Koroneiki :** arbres en installation. Les racines explorent encore un volume limité; il faudra raisonner l’irrigation autour de la zone racinaire effectivement mouillée et suivre l’humidité du sol. Éviter aussi bien les périodes de dessèchement sévère que l’asphyxie par excès d’eau.
-- **4 ans — Chemlali :** jeunes arbres en développement de la charpente et du couvert. Leur surface foliaire et leur accès à l’eau évoluent; ils ne doivent pas recevoir automatiquement le même programme que les arbres adultes.
+- **2 ans — Koroneiki :** 4 500 arbres en installation. Les racines explorent encore un volume limité; il faudra raisonner l’irrigation autour de la zone racinaire effectivement mouillée et suivre l’humidité du sol. Éviter aussi bien les périodes de dessèchement sévère que l’asphyxie par excès d’eau.
+- **4 ans — Koroneiki :** 1 500 jeunes arbres en développement de la charpente et du couvert. Leur surface foliaire et leur accès à l’eau évoluent; ils ne doivent pas recevoir automatiquement le même programme que les arbres adultes ou ceux de 2 ans.
 - **40 ans — Chemlali :** arbres adultes, avec une demande liée notamment au volume du couvert, à la récolte, à la taille et à l’espacement. L’âge seul ne permet pas de calculer cette demande.
 
 En pratique, séparer au minimum les trois groupes en **blocs de conduite distincts**. Pour comparer les besoins, relever aussi le diamètre du couvert, la vigueur, la charge en fruits et la densité réelle.
