@@ -11,11 +11,11 @@
 | Bloc à confirmer | Variété | Âge déclaré | Nombre approximatif |
 |---|---|---:|---:|
 | A | Chemlali | 40 ans | 300 |
-| B | « Koronaike » — probablement **Koroneiki** | 4 ans | 1 500 |
-| C | « Koronaike » — probablement **Koroneiki** | 2 ans | 4 500 |
+| B | **Koroneiki** (variété grecque) | 4 ans | 1 500 |
+| C | **Koroneiki** (variété grecque) | 2 ans | 4 500 |
 | **Total provisoire** |  |  | **6 300** |
 
-Les effectifs et les âges sont des estimations communiquées par le propriétaire. L’orthographe et l’identité de la variété « Koronaike » restent à confirmer à partir des plants ou des documents de pépinière.
+Les effectifs et les âges sont des estimations communiquées par le propriétaire. La variété Koroneiki et son origine grecque sont confirmées par le propriétaire.
 
 ## 2. Premiers repères sur les variétés et les âges
 
@@ -25,7 +25,7 @@ Les effectifs et les âges sont des estimations communiquées par le propriétai
 - Une étude tunisienne menée en conditions arides à Boughrara (gouvernorat de Sfax) a comparé Chemlali Sfax et Koroneiki en sec. Les deux ont produit, avec des différences selon l’année; la Chemlali a notamment eu un taux de nouaison supérieur. Cela ne signifie pas qu’une variété surpasse l’autre dans toutes les parcelles ou toutes les années [2].
 - Une autre étude sur Chemlali à Sfax a évalué une eau saline à **7,5 dS/m** dans un dispositif expérimental. Les résultats reposaient sur une conduite et un drainage suivis; ils ne prouvent pas que toute eau de cette salinité convient à toute oliveraie [3].
 
-### Koroneiki (identification à confirmer)
+### Koroneiki — variété grecque
 
 - Koroneiki est une variété grecque principalement associée à la production d’huile; les descriptions agronomiques la caractérisent par de petits fruits et une teneur élevée en huile [4].
 - La comparaison tunisienne de Boughrara constitue un repère local utile, mais son verger était pluvial, très peu dense et suivi de 2008 à 2014. Ses résultats ne donnent pas directement un rendement attendu pour les 6 000 Koroneiki de la ferme [2].
@@ -106,7 +106,7 @@ Source : [rapport détaillé S-23/012953](S-23_012953.pdf) et [synthèse de sol]
 
 ## 6. Étapes de travail proposées
 
-1. **Confirmer les blocs et la variété « Koronaike ».**
+1. **Confirmer le tracé et les caractéristiques de chaque bloc.**
 2. **Actualiser l’eau et le sol**, en distinguant les parcelles et les horizons; faire préciser au laboratoire la classe S3 C5 du rapport 2023.
 3. **Décrire le système et les débits réels** des goutteurs. Mesurer le débit de plusieurs goutteurs au début, au milieu et en fin de lignes.
 4. **Construire un calendrier par bloc et par saison**, avec besoins estimés, pluie, réserve du sol, stade de l’olivier et capacité du réseau. Intégrer une stratégie de salinité uniquement si le drainage peut la supporter.
